@@ -1,6 +1,6 @@
 # Readme
 
-Video som høyrer til finn du [her](https://screencast-o-matic.com/watch/c3nejOVDAdu)
+Video som høyrer til finn du [her](https://screencast-o-matic.com/watch/c3nejOVDAdu) med snarvegar her:
 
 1) [Intro og importering](https://screencast-o-matic.com/watch/c3nejOVDAdu#details-play-c3nejOVDAdu:0)
 2) [Pandas. Innlesing av csv og txt-filer](https://screencast-o-matic.com/watch/c3nejOVDAdu#details-play-c3nejOVDAdu:78)
